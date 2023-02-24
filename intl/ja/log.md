@@ -14,4 +14,6 @@
 
 追伸:ProgateのNode.js Iのスクリプトをコピーして、localhost:3000にWebページを表示できた。ちょっといじればものづくりできそう。
 
+### 3日目: 2023年2月24日
 
+**リンク**  <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>3日目<br>・AtCoder 1AC<br>Union-Findの勉強しました。連結でマージするのって理論知らないので不思議ですね。<br>アルゴ式が大変わかりやすいのでぼちぼちやりつつ、グラフ理論も体系的に学んでみたいです。(優先度的には後回しになりますが)<br>給料日なので焼肉食べました。おいしかったです。</p>&mdash; rare (@rare0b) <a href="https://twitter.com/rare0b/status/1629141776417308676?ref_src=twsrc%5Etfw">February 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
