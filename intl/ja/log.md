@@ -37,3 +37,8 @@
 <img src="https://user-images.githubusercontent.com/125894090/221415073-b07adaf4-d729-45e5-bb00-2a5c78a9a2b0.jpeg" width="320px">
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">別件で課題。<br>Node.jsで30分くらい粘るも、POSTで受け取ったものの処理方法がわからず。。<br><br>POSTはWebの基本だと思いますが、これすら解消できないならただの知識不足ですね。<br>とりあえずRailsなどチュートリアル繰り返すことにします。</p>&mdash; rare (@rare0b) <a href="https://twitter.com/rare0b/status/1629840899269328897?ref_src=twsrc%5Etfw">February 26, 2023</a></blockquote>
+
+### 6日目: 2023年2月28日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">6日目<br>昨日は眠くてお休みしました。<br>・AtCoder 1AC<br>&quot; \n&quot;[i==n-1]←この書き方始めて知りました。i==n-1は配列の添字で、falseつまり0のときは&quot; &quot;、trueつまり1のときは&quot;\n&quot;が出力されるみたいです。</p>&mdash; rare (@rare0b) <a href="https://twitter.com/rare0b/status/1630618672996978688?ref_src=twsrc%5Etfw">February 28, 2023</a></blockquote>
