@@ -42,3 +42,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">6日目<br>昨日は眠くてお休みしました。<br>・AtCoder 1AC<br>&quot; \n&quot;[i==n-1]←この書き方始めて知りました。i==n-1は配列の添字で、falseつまり0のときは&quot; &quot;、trueつまり1のときは&quot;\n&quot;が出力されるみたいです。</p>&mdash; rare (@rare0b) <a href="https://twitter.com/rare0b/status/1630618672996978688?ref_src=twsrc%5Etfw">February 28, 2023</a></blockquote>
+
+### 7日目: 2023年3月1日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>7日目<br>帰宅後昼寝？してしまい、とんでもない時間になりましたね。<br>・AtCoder 1AC<br>・Railsチュートリアル<br>EC2だったり、MVCモデルだったり、初見のものがいっぱい出てきました。<br>新しいことを試せて楽しいです。</p>&mdash; rare (@rare0b) <a href="https://twitter.com/rare0b/status/1631022867499618318?ref_src=twsrc%5Etfw">March 1, 2023</a></blockquote>
