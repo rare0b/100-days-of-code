@@ -47,3 +47,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>7日目<br>帰宅後昼寝？してしまい、とんでもない時間になりましたね。<br>・AtCoder 1AC<br>・Railsチュートリアル<br>EC2だったり、MVCモデルだったり、初見のものがいっぱい出てきました。<br>新しいことを試せて楽しいです。</p>&mdash; rare (@rare0b) <a href="https://twitter.com/rare0b/status/1631022867499618318?ref_src=twsrc%5Etfw">March 1, 2023</a></blockquote>
+
+### 8日目: 2023年3月2日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>8日目<br>・1AC<br>・Railsチュートリアル 1章終わりまで<br>こうも簡単にデプロイできるんですね。今までハードル高かったのが不思議。<br>記念にURL貼っておきます。結構楽しいので、ぼちぼちですが引き続き進めたい。<a href="https://t.co/DG67iu1Ypk">https://t.co/DG67iu1Ypk</a></p>&mdash; rare (@rare0b) <a href="https://twitter.com/rare0b/status/1631333110762840064?ref_src=twsrc%5Etfw">March 2, 2023</a></blockquote>
