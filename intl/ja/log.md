@@ -52,3 +52,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>8日目<br>・1AC<br>・Railsチュートリアル 1章終わりまで<br>こうも簡単にデプロイできるんですね。今までハードル高かったのが不思議。<br>記念にURL貼っておきます。結構楽しいので、ぼちぼちですが引き続き進めたい。<a href="https://t.co/DG67iu1Ypk">https://t.co/DG67iu1Ypk</a></p>&mdash; rare (@rare0b) <a href="https://twitter.com/rare0b/status/1631333110762840064?ref_src=twsrc%5Etfw">March 2, 2023</a></blockquote>
+
+### 9日目: 2023年3月3日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>9日目<br>・1AC<br>・Railsチュートリアル 2章<br>コツコツ積み上げようー。</p>&mdash; rare (@rare0b) <a href="https://twitter.com/rare0b/status/1631705915362787335?ref_src=twsrc%5Etfw">March 3, 2023</a></blockquote>
