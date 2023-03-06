@@ -64,3 +64,8 @@
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>10日目<br>・ABC292<br>・応用情報対策<br>D問題まで解けてよかった。C問題に1時間かかりました…<br>N√Nの考えにはすぐたどり着いたのに、そこからが長かった。。<br>コードテストして修正ではなく、机上で完璧なコード書けるのが理想ですね。<br>D問題は1日1ACで類題やってたので10分で解けました。</p>&mdash; rare (@rare0b) <a href="https://twitter.com/rare0b/status/1632016120214609920?ref_src=twsrc%5Etfw">March 4, 2023</a></blockquote>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日は出社日で、空き時間に応用情報対策もしてました。<br>初見の午前問題が8割超え。基本情報でガチガチにやったおかげですね。もう勉強しなくてもいいかも(？)<br>この後午後問題やって、余力あればRailsチュートリアル進めようと思います。<br>明日は遠方の友人と会えるので楽しみ！</p>&mdash; rare (@rare0b) <a href="https://twitter.com/rare0b/status/1632016690098884608?ref_src=twsrc%5Etfw">March 4, 2023</a></blockquote>
+
+### 11日目: 2023年3月6日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>11日目<br>・AtCoder 2AC<br>・Railsチュートリアル 2章<br>朝活悪くない。このあと3章やります。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1632866829751418880?ref_src=twsrc%5Etfw">March 6, 2023</a></blockquote>
