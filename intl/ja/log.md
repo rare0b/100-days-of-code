@@ -69,3 +69,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>11日目<br>・AtCoder 2AC<br>・Railsチュートリアル 2章<br>朝活悪くない。このあと3章やります。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1632866829751418880?ref_src=twsrc%5Etfw">March 6, 2023</a></blockquote>
+
+### 12日目: 2023年3月8日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>12日目<br>・Railsチュートリアル 3章<br>昨日は途中で寝てしまい、今日は帰宅が24時と、あまり勉強できませんでした。<br>明日からは気を取り直して頑張りますー。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1633521429659664384?ref_src=twsrc%5Etfw">March 8, 2023</a></blockquote>
