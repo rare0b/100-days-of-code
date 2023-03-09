@@ -74,3 +74,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>12日目<br>・Railsチュートリアル 3章<br>昨日は途中で寝てしまい、今日は帰宅が24時と、あまり勉強できませんでした。<br>明日からは気を取り直して頑張りますー。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1633521429659664384?ref_src=twsrc%5Etfw">March 8, 2023</a></blockquote>
+
+### 13日目: 2023年3月9日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>13日目<br>・AtCoder 1AC<br>・Railsチュートリアル 3章、4章<br>Web(というかコード)でも繰り返しを防ぐって大事なんですね。DRYっていうらしい<br>分野が違っても、ITの基盤的な考え方が同じなのは面白いです。現職で学んだことも活かせて嬉しい。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1633881767500468224?ref_src=twsrc%5Etfw">March 9, 2023</a></blockquote>
