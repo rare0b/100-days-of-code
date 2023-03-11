@@ -79,3 +79,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>13日目<br>・AtCoder 1AC<br>・Railsチュートリアル 3章、4章<br>Web(というかコード)でも繰り返しを防ぐって大事なんですね。DRYっていうらしい<br>分野が違っても、ITの基盤的な考え方が同じなのは面白いです。現職で学んだことも活かせて嬉しい。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1633881767500468224?ref_src=twsrc%5Etfw">March 9, 2023</a></blockquote>
+
+### 14日目: 2023年3月11日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>14日目<br>・Railsチュートリアル 4章まで<br>・ABC293<br>C問題よりD問題の方が得意なので、解く順番見直そうと思う。最近ACLのDSUが大活躍している。<br>Railsチュートリアル4章は、Rubyの文法が多かった。C++やPythonなどある程度やっているので、理解には困らないものの、書き方覚えなきゃ。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1634585918966493184?ref_src=twsrc%5Etfw">March 11, 2023</a></blockquote>
