@@ -84,3 +84,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>14日目<br>・Railsチュートリアル 4章まで<br>・ABC293<br>C問題よりD問題の方が得意なので、解く順番見直そうと思う。最近ACLのDSUが大活躍している。<br>Railsチュートリアル4章は、Rubyの文法が多かった。C++やPythonなどある程度やっているので、理解には困らないものの、書き方覚えなきゃ。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1634585918966493184?ref_src=twsrc%5Etfw">March 11, 2023</a></blockquote>
+
+### 15日目: 2023年3月12日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>15日目<br>・応用情報対策<br>・Railsチュートリアル 5章まで<br>応用情報、午後問題が結構難しい。とはいえ直前対策でなんとかなりそうなので、4月入ってから頑張ろうかな。<br>Railsは着実に進めてます。一章2時間平均かな？<br>今日は温泉に行ったのでずいぶんスッキリしました。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1634990316599283714?ref_src=twsrc%5Etfw">March 12, 2023</a></blockquote>
