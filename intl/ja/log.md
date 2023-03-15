@@ -94,3 +94,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>16日目<br>・競プロ鉄則本2AC<br>・Railsチュートリアル 6章まで<br>典型アルゴリズム知識が足りてないなーと思ったので鉄則本始めました。第4章 動的計画法からやってます。<br>データベースやってる身からすると、Railsのmigrateは自動でやってくれすぎて不思議な感じ。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1635330441732567040?ref_src=twsrc%5Etfw">March 13, 2023</a></blockquote>
+
+### 17日目: 2023年3月15日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>17日目<br>・競プロ鉄則本1AC<br>・Railsチュートリアル 7章<br>来週月曜おやすみもらったので、Railsチュートリアル詰めていきたいです。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1636043730120773635?ref_src=twsrc%5Etfw">March 15, 2023</a></blockquote>
