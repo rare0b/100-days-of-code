@@ -99,3 +99,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>17日目<br>・競プロ鉄則本1AC<br>・Railsチュートリアル 7章<br>来週月曜おやすみもらったので、Railsチュートリアル詰めていきたいです。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1636043730120773635?ref_src=twsrc%5Etfw">March 15, 2023</a></blockquote>
+
+### 18日目: 2023年3月16日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>18日目<br>・競プロ鉄則本1AC<br>・Qiita記事書く<br>記事1本書くだけで他のことする時間なくなりますね。<br>Railsチュートリアル進めたいのと、他のことも新鮮なうちにアウトプットしたいのとで、バランスが難しい。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1636413077272031234?ref_src=twsrc%5Etfw">March 16, 2023</a></blockquote>
