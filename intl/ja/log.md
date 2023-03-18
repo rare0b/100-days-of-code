@@ -107,3 +107,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>19日目<br>・競プロ鉄則本1AC<br>・Railsチュートリアル 7章<br>ChatGPTが強すぎてやばい</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1636767746212986881?ref_src=twsrc%5Etfw">March 17, 2023</a></blockquote>
+
+### 20日目: 2023年3月18日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>20日目<br>・競プロ鉄則本1AC<br>・Railsチュートリアル 7章まで<br>日々睡眠負債が溜まってるのか、ほぼ1日寝て過ごしました。<br>Railsがだんだん面白くなってきたところ。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1637141929719918592?ref_src=twsrc%5Etfw">March 18, 2023</a></blockquote>
