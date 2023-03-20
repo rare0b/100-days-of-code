@@ -117,3 +117,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>21日目<br>・Railsチュートリアル 8章<br>今日は小旅行してたので、進捗少なめ。<br>日光東照宮パワーでつよくなりたい。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1637484740751265798?ref_src=twsrc%5Etfw">March 19, 2023</a></blockquote>
+
+### 22日目: 2023年3月20日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>22日目<br>・読書@図書館<br>・競プロ鉄則本1AC<br>設計の本に色々手をつけましたが、あんまり理解は深まらず。(すぐ借りれる本だと難しいものが多いのかな？)挫けずまた技術書に挑戦したい。「ソフトウェア工学の基礎」が気に入ったので、そのまま借りてきましたが、こちらもまあ難しい。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1637838887132479489?ref_src=twsrc%5Etfw">March 20, 2023</a></blockquote>
