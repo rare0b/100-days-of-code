@@ -127,3 +127,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>23日目<br>・競プロ鉄則本1AC<br>・Railsチュートリアル 8章まで<br>連休も勉強頑張るぞ！と息巻くも、そううまくはいかない。結局寝正月。仕事終わりのほうがやる気あるのはなぜなのか？<br>チュートリアルゆっくりやりすぎかなと思うので、スピードアップしてものづくりに時間を充てたい。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1638249880878739458?ref_src=twsrc%5Etfw">March 21, 2023</a></blockquote>
+
+### 24日目: 2023年3月22日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>24日目<br>・競プロ鉄則本1AC<br>・Railsチュートリアル 9章まで<br>今日は1ACしているリポジトリにREADMEをつけてみました。<br>Railsチュートリアル折り返してるので、引き続き頑張ります。 <a href="https://t.co/Rpw8yPMsxZ">pic.twitter.com/Rpw8yPMsxZ</a></p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1638586702313947137?ref_src=twsrc%5Etfw">March 22, 2023</a></blockquote>
