@@ -137,3 +137,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>25日目<br>・競プロ鉄則本1AC<br>・Railsチュートリアル 10章まで<br>1/4 100DaysOfCode<br>Turbo入れているときはstatus: :see_otherを忘れないようにしようと思いました。<br>テスト書いて開発がいい感じ。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1638953368180899840?ref_src=twsrc%5Etfw">March 23, 2023</a></blockquote> 
+
+### 26日目: 2023年3月25日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>26日目<br>・ABC295<br>・Railsチュートリアル 11章<br>AtCoder、若干レート落ちてしまった。レーティングの仕組みを勘違いしていて、C問題早めに解いて残りはおしゃべりしながらやってたせい。今後気をつける。<br>Railsのメール認証のやり方を学んだ。こういう、よくある仕組みを学ぶと楽しい。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1639685112878227457?ref_src=twsrc%5Etfw">March 25, 2023</a></blockquote>
