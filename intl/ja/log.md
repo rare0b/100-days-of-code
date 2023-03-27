@@ -142,3 +142,13 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>26日目<br>・ABC295<br>・Railsチュートリアル 11章<br>AtCoder、若干レート落ちてしまった。レーティングの仕組みを勘違いしていて、C問題早めに解いて残りはおしゃべりしながらやってたせい。今後気をつける。<br>Railsのメール認証のやり方を学んだ。こういう、よくある仕組みを学ぶと楽しい。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1639685112878227457?ref_src=twsrc%5Etfw">March 25, 2023</a></blockquote>
+
+### 27日目: 2023年3月26日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>27日目<br>・技術書読書<br>・Railsチュートリアル 11章(少し)<br>技術書はWeb技術がしっかりわかる本。それと、考える技術・書く技術。どちらも良書なので読み返す。<br>あとは、知り合いのサービスに貢献できそうないい感じのAPI探し。ほしいなと思ったAPIは割と誰かが実装していてありがたい。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1640036137501880320?ref_src=twsrc%5Etfw">March 26, 2023</a></blockquote>
+
+### 28日目: 2023年3月27日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>28日目<br>・競プロ鉄則本1AC<br>・Railsチュートリアル 11章まで<br>認証メールどう送信するのかなと思ってたら、Mailgunというのを使うらしい。英語サイトで使い勝手がいまいちわからないが、サービスを作るのに便利なサービスがいっぱいあるなと思った。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1640411208556888064?ref_src=twsrc%5Etfw">March 27, 2023</a></blockquote>
