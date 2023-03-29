@@ -152,3 +152,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>28日目<br>・競プロ鉄則本1AC<br>・Railsチュートリアル 11章まで<br>認証メールどう送信するのかなと思ってたら、Mailgunというのを使うらしい。英語サイトで使い勝手がいまいちわからないが、サービスを作るのに便利なサービスがいっぱいあるなと思った。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1640411208556888064?ref_src=twsrc%5Etfw">March 27, 2023</a></blockquote>
+
+### 29日目: 2023年3月29日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>29日目<br>・Railsチュートリアル 11章の不具合修正<br>本番環境でメール受け取れなかったり、修正しようとしたらRenderでFailedしたり、諸々対応中。<br>こういう壁にあたったときが一番楽しい。性格的に向いてるのってお得な気がする。<br>やっつけたら寝ます。無理だったら3時にはねます</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1641134632556187648?ref_src=twsrc%5Etfw">March 29, 2023</a></blockquote>
