@@ -157,3 +157,5 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>29日目<br>・Railsチュートリアル 11章の不具合修正<br>本番環境でメール受け取れなかったり、修正しようとしたらRenderでFailedしたり、諸々対応中。<br>こういう壁にあたったときが一番楽しい。性格的に向いてるのってお得な気がする。<br>やっつけたら寝ます。無理だったら3時にはねます</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1641134632556187648?ref_src=twsrc%5Etfw">March 29, 2023</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">できた！！デプロイ15分待ちは長いのう…<br>本番環境でメール受け取れない→hostのURL設定ミス<br>RenderでFailedした→開きっぱなしでDBがuserに使われてると出た。本番ページ落としたら直った <a href="https://t.co/JihMqrFAzr">pic.twitter.com/JihMqrFAzr</a></p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1641141952589733890?ref_src=twsrc%5Etfw">March 29, 2023</a></blockquote>
