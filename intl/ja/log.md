@@ -169,3 +169,13 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>31日目<br>・Railsチュートリアル 12章まで<br>パスワードリセットの方法を学んだ。概ねアカウント有効化のメール送信と同じなようで、実装コストが低かった。<br>複数アクションを処理するために、ページ内にキー(メールアドレス)を保存する仕組みは便利。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1642554057649954817?ref_src=twsrc%5Etfw">April 2, 2023</a></blockquote>
+
+### 32日目: 2023年4月4日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>32日目<br>・昨日今日1ACずつ<br>土曜のABCのE問題、強連結成分分解というのを使うらしい。競技中に同じ考えに着いていたが、実装方法がわからず解けなかった。知識不足でもったいないことをした。<br><br>しばらく残業続き&amp;応用情報優先のため、やる日がまちまちになりそう。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1643308698775998465?ref_src=twsrc%5Etfw">April 4, 2023</a></blockquote>
+
+### 33日目: 2023年4月9日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>33日目<br>・ABC297<br>比較的問題が簡単だった印象。E問題もワンチャン解けそうな難易度だったけど、難しく考えすぎて解法が思いつけなかった。反省。<br>過去の経験から、グラフアルゴリズムを学べば学ぶだけACできるので、アルゴ式で基礎力を養いたいと思う。(鉄則本はまだ難しかった)</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1645077732618031104?ref_src=twsrc%5Etfw">April 9, 2023</a></blockquote>
