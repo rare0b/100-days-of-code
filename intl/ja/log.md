@@ -179,3 +179,11 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>33日目<br>・ABC297<br>比較的問題が簡単だった印象。E問題もワンチャン解けそうな難易度だったけど、難しく考えすぎて解法が思いつけなかった。反省。<br>過去の経験から、グラフアルゴリズムを学べば学ぶだけACできるので、アルゴ式で基礎力を養いたいと思う。(鉄則本はまだ難しかった)</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1645077732618031104?ref_src=twsrc%5Etfw">April 9, 2023</a></blockquote>
+
+### 34日目: 2023年4月19日
+34日目
+・1AC
+・pytest調べるがうまく動かず
+応用情報明けてお久しぶりの100DaysOfCode。
+1ACはずっと継続しており、最短経路問題が解けるようになってきた。
+pytestはAWSとの関連がうまくいかず、ずっと悩んでいる…。トライアンドエラーあるのみ？
