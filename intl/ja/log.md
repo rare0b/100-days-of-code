@@ -181,9 +181,16 @@
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>33日目<br>・ABC297<br>比較的問題が簡単だった印象。E問題もワンチャン解けそうな難易度だったけど、難しく考えすぎて解法が思いつけなかった。反省。<br>過去の経験から、グラフアルゴリズムを学べば学ぶだけACできるので、アルゴ式で基礎力を養いたいと思う。(鉄則本はまだ難しかった)</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1645077732618031104?ref_src=twsrc%5Etfw">April 9, 2023</a></blockquote>
 
 ### 34日目: 2023年4月19日
-34日目
-・1AC
-・pytest調べるがうまく動かず
-応用情報明けてお久しぶりの100DaysOfCode。
-1ACはずっと継続しており、最短経路問題が解けるようになってきた。
-pytestはAWSとの関連がうまくいかず、ずっと悩んでいる…。トライアンドエラーあるのみ？
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>34日目<br>・1AC<br>・pytest調べるがうまく動かず<br>応用情報明けてお久しぶりの100DaysOfCode。<br>1ACはずっと継続しており、最短経路問題が解けるようになってきた。<br>pytestはAWSとの関連がうまくいかず、ずっと悩んでいる…。トライアンドエラーあるのみ？</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1648374937042952195?ref_src=twsrc%5Etfw">April 18, 2023</a></blockquote>
+
+### 35日目: 2023年4月20日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>35日目<br>・1AC<br>・Railsチュートリアル 13・14章ざっと読む<br>最近お休みしていて、チュートリアルを丁寧に再開しても学習効果薄いかなと思ったので、ざっと読むだけにしました。<br>14章のテーブル設計はどこに行っても使えそう。<br>Railsを仕事等で使うときは、必ず戻ってきます。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1648759537590239232?ref_src=twsrc%5Etfw">April 19, 2023</a></blockquote>
+
+### 36日目: 2023年4月22日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>36日目<br>・ABC299<br>AtCoderが2週連続でDDoSに遭っているらしく、今週もUnratedになった。何の恨みが…。<br>最近はD問題までは解けて、E問題も勝機が見えるようになってきた。1日1ACでDifficultの問題をやっているおかげかな。<br>とりあえず緑まで頑張ってから見通し立てよう。DDoS勘弁…。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1649828342823284736?ref_src=twsrc%5Etfw">April 22, 2023</a></blockquote>
