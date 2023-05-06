@@ -194,3 +194,38 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>36日目<br>・ABC299<br>AtCoderが2週連続でDDoSに遭っているらしく、今週もUnratedになった。何の恨みが…。<br>最近はD問題までは解けて、E問題も勝機が見えるようになってきた。1日1ACでDifficultの問題をやっているおかげかな。<br>とりあえず緑まで頑張ってから見通し立てよう。DDoS勘弁…。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1649828342823284736?ref_src=twsrc%5Etfw">April 22, 2023</a></blockquote>
+
+### 37日目: 2023年4月24日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>37日目<br>・1AC<br>・pytestとmoto使ってみる<br>pythonの相対インポートがよくわかりません。明日はエラー箇所直していきたいです。(昨日書き忘れた)</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1650666198860967936?ref_src=twsrc%5Etfw">April 25, 2023</a></blockquote>
+
+### 38日目: 2023年4月25日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>38日目<br>・1AC<br>沼って2時間かかる。(稀によくある)<br>グラフの探索がD～E問題からは増えるが、そのあたり経験不足なので、引き続き鍛える。<br>あと、時間をかけすぎるのは睡眠的にまずいので、デッドラインを決めておく。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1650921281565655040?ref_src=twsrc%5Etfw">April 25, 2023</a></blockquote>
+
+### 39日目: 2023年4月28日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>39日目<br>・1AC<br>・SQL楽しい<br>たまに達人に学ぶSQLを読み返してはCASE式で遊んでいる。楽しい。<br>SQLは思っている以上に表現できる範囲が多い。「こういう形で出力したい」は(計算量に目を瞑れば)基本的に実現できるし、CASE式とウィンドウ関数を武器にできれば世界変わると思った。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1651986881612230657?ref_src=twsrc%5Etfw">April 28, 2023</a></blockquote>
+
+### 40日目: 2023年4月29日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>40日目<br>・ABC300+B問題見直し<br>A、C、Dが解けて、パフォーマンス996で順調に伸びている。緑は4、5回参加すれば行けそう。<br>Bは基礎的なMODの問題のわりに解けなかった。フィールド外に出てループする問題は頻出だと思う。解き直して身につけた(はず)ので次回も頑張る。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1652341594547445760?ref_src=twsrc%5Etfw">April 29, 2023</a></blockquote>
+
+### 41日目: 2023年4月30日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>41日目<br>・1AC<br>・Recursionちょっと<br>Recursionで学生無料キャンペーンをやるらしく、条件の初級コース完了を進めることに。<br>初級は非常に簡単。データ構造etc…(競プロやっていて、基本情報など資格も持っているので、当然ではある)<br>将来的にチーム開発などできるらしいので楽しみ。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1652713140470304769?ref_src=twsrc%5Etfw">April 30, 2023</a></blockquote>
+
+### 42日目: 2023年5月4日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>42日目<br>・Recursion初級終わりまで<br>・2AC<br>・AtCoderローカル環境構築<br>・Pytest練習<br>Recursion、教材として良いし、チーム開発もできるみたいで就職・転職にめっちゃいいのでは…？と思っている。<br>AtCoderはDDoSのときにローカルでコンパイル・テストしたいな…と思って今更構築した。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1654350119310086145?ref_src=twsrc%5Etfw">May 5, 2023</a></blockquote>
+
+### 43日目: 2023年5月6日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>43日目<br>・2AC<br>・Zenn1記事<br>ダブリングを学んだ。こういう遷移問題、よく見かけるので、忘れないようにしておきたい。<br>ZennはAtCoderの環境構築について、記事書きました。コンパイルコマンドが覚えられないので、エイリアスを使った設定など凝ったつもり。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1654816288232058880?ref_src=twsrc%5Etfw">May 6, 2023</a></blockquote>
