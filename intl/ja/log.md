@@ -229,3 +229,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>43日目<br>・2AC<br>・Zenn1記事<br>ダブリングを学んだ。こういう遷移問題、よく見かけるので、忘れないようにしておきたい。<br>ZennはAtCoderの環境構築について、記事書きました。コンパイルコマンドが覚えられないので、エイリアスを使った設定など凝ったつもり。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1654816288232058880?ref_src=twsrc%5Etfw">May 6, 2023</a></blockquote>
+
+### 44日目: 2023年5月7日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>44日目<br>・1AC<br>・A Tour of Go<br>Goの文法おもしろい…()では囲まないけど{}では囲むてきな。<br>並行処理は初めて見た。今度のハッカソンで使ってみたい所存。(活かせるほどの処理はないと思うけど)</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1655152141806493696?ref_src=twsrc%5Etfw">May 7, 2023</a></blockquote>
