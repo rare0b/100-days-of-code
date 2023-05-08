@@ -234,3 +234,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>44日目<br>・1AC<br>・A Tour of Go<br>Goの文法おもしろい…()では囲まないけど{}では囲むてきな。<br>(昨日のツイート修正)</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1655585268999618564?ref_src=twsrc%5Etfw">May 8, 2023</a></blockquote>
+
+### 45日目: 2023年5月8日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>45日目<br>・1AC(Goで)<br>・A Tour of Go<br>Goの書き方結構気に入ってきた。<br>1ACする際、Goの拡張機能手当たり次第にいれていたら、Tabnine AIというのが入ってたのだけど、コレヤバイ。勝手に回答埋められる。。<br>コード補完系使ってなかったけど、こんなに便利なのか…感動。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1655617871010226177?ref_src=twsrc%5Etfw">May 8, 2023</a></blockquote>
