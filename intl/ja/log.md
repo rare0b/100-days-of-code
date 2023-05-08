@@ -233,4 +233,4 @@
 ### 44日目: 2023年5月7日
 
 **リンク**
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>44日目<br>・1AC<br>・A Tour of Go<br>Goの文法おもしろい…()では囲まないけど{}では囲むてきな。<br>並行処理は初めて見た。今度のハッカソンで使ってみたい所存。(活かせるほどの処理はないと思うけど)</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1655152141806493696?ref_src=twsrc%5Etfw">May 7, 2023</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>44日目<br>・1AC<br>・A Tour of Go<br>Goの文法おもしろい…()では囲まないけど{}では囲むてきな。<br>(昨日のツイート修正)</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1655585268999618564?ref_src=twsrc%5Etfw">May 8, 2023</a></blockquote>
