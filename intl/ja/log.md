@@ -239,3 +239,13 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>45日目<br>・1AC(Goで)<br>・A Tour of Go<br>Goの書き方結構気に入ってきた。<br>1ACする際、Goの拡張機能手当たり次第にいれていたら、Tabnine AIというのが入ってたのだけど、コレヤバイ。勝手に回答埋められる。。<br>コード補完系使ってなかったけど、こんなに便利なのか…感動。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1655617871010226177?ref_src=twsrc%5Etfw">May 8, 2023</a></blockquote>
+
+### 46日目: 2023年5月13日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>46日目<br>・ABC301<br>・A Tour of Go<br>ABCはパフォーマンス1000超えてレート上昇。D問題で観点足りずに3ミスしたのが痛かった…。<br>Goが難しくなってきた。今週は残業多いからか疲れていて、あまり触れなかったので、土日と来週でハッカソンに備えようと思う。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1657429804898205696?ref_src=twsrc%5Etfw">May 13, 2023</a></blockquote>
+
+### 47日目: 2023年5月14日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>47日目<br>・1AC<br>・A Tour of Go<br>・Vue.jsちょっと<br>Goの並行処理めっちゃむずい。こういうバッファの安全性的なのを考えるプログラミングしてこなかったから、慣れるのに時間かかりそう。ちなみに楽しい。<br>(朝活ついでに昨日の振り返りをしておく)</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1657832146411876352?ref_src=twsrc%5Etfw">May 14, 2023</a></blockquote>
