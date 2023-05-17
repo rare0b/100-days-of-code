@@ -249,3 +249,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>47日目<br>・1AC<br>・A Tour of Go<br>・Vue.jsちょっと<br>Goの並行処理めっちゃむずい。こういうバッファの安全性的なのを考えるプログラミングしてこなかったから、慣れるのに時間かかりそう。ちなみに楽しい。<br>(朝活ついでに昨日の振り返りをしておく)</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1657832146411876352?ref_src=twsrc%5Etfw">May 14, 2023</a></blockquote>
+
+### 48日目: 2023年5月17日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>48日目<br>・2AC<br>・Gin<br>・Vue.js<br>Vue.jsの書き方めっちゃ便利だなー。コンポーネント指向の良さはまだ実感してない。<br>GinとDockerで環境構築できないかお試し中。土日のハッカソンが不安。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1658903570736099328?ref_src=twsrc%5Etfw">May 17, 2023</a></blockquote>
