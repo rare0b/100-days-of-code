@@ -254,3 +254,23 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>48日目<br>・2AC<br>・Gin<br>・Vue.js<br>Vue.jsの書き方めっちゃ便利だなー。コンポーネント指向の良さはまだ実感してない。<br>GinとDockerで環境構築できないかお試し中。土日のハッカソンが不安。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1658903570736099328?ref_src=twsrc%5Etfw">May 17, 2023</a></blockquote>
+
+### 49日目: 2023年5月19日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>49日目<br>・1AC<br>・Recursion<br>再帰は頭使うので好きだけど、計算量の検討をぱっとできないのが難点。O(n)が知らぬ間にO(n^2)になりがち。<br>あと、しゃくとり法めっちゃ便利。O(n^2)がO(n)になるの幸せ。応用情報のアルゴリズム問題とか、しゃくとりみたいな動きすることが多い気がする。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1659631605714137089?ref_src=twsrc%5Etfw">May 19, 2023</a></blockquote>
+
+### 50日目: 2023年5月20日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>50日目(折返し！)<br>・ABC302<br>・ハッカソン(瀕死)<br>ABCはレート微増。最近、前提見落としが多い…アルゴリズム使い慣れると少なくなるので、演習は引き続きやっておく。<br>ハッカソン、死にかけてますが試行錯誤楽しいです。全然形になってないですが笑、コンセプト伝わるようにはしたい！</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1659975458790993920?ref_src=twsrc%5Etfw">May 20, 2023</a></blockquote>
+
+### 51日目: 2023年5月21日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>51日目(昨日分の振り返り)<br>・2AC<br>・ハッカソン<br>・Recursion<br>ハッカソン、皆さんレベル高くて楽しかったので、また参加したい。今度は事前開発込で作りきる。途中になったものもチマチマ進めていく</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1660437886121185280?ref_src=twsrc%5Etfw">May 22, 2023</a></blockquote>
+
+### 52日目: 2023年5月27日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>52日目<br>・1AC<br>・ABC303<br>・Recursion<br>ABCはD問題まで。D問題パッと見て、動的計画法ぽいって判断できるのは成長かも。E問題も時間が許せば解けそうだったあたり、実力伸びてそう。<br>Recursionの中級は特に躓かず。あとカードゲームの設計のみ…がんばる。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1662468838968168449?ref_src=twsrc%5Etfw">May 27, 2023</a></blockquote>
