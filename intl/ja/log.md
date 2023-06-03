@@ -274,3 +274,15 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>52日目<br>・1AC<br>・ABC303<br>・Recursion<br>ABCはD問題まで。D問題パッと見て、動的計画法ぽいって判断できるのは成長かも。E問題も時間が許せば解けそうだったあたり、実力伸びてそう。<br>Recursionの中級は特に躓かず。あとカードゲームの設計のみ…がんばる。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1662468838968168449?ref_src=twsrc%5Etfw">May 27, 2023</a></blockquote>
+
+### 53日目: 2023年5月30日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>53日目<br>・1AC<br>・Recursion<br>Recursionの中級まで完了。classの使い方がわかってきたので、雑なハードコーディングせず、意識して使うようにしたい。<br>あと、今週末目処に体調を整えたい…。週末疲れすぎて、逆に眠れていない。。仕事がちょうど忙しくなるので、土日使ってもとに戻す。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1663611478283534336?ref_src=twsrc%5Etfw">May 30, 2023</a></blockquote>
+
+### 54日目: 2023年6月3日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>54日目<br>・ABC304<br>ジャッジくんが機能停止してモチベ落ちながらでしたが、ABCEが解けた。<br>CとEはunion findゴリ押し。ACLのdsuには本当に感謝しかない<br>C:N^2全探索で距離が近い人をグルーピング。人1のグループと同じならYes</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1665006824666595328?ref_src=twsrc%5Etfw">June 3, 2023</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">E:グラフをdsuに入れてxiとyiのdsu.leader()の組み合わせをsetで保持。次にクエリで、piとqiのdsu.leader()の組み合わせがset内に存在すればNo。dsu.leader()がならしO(1)ぽいのでO(QlogK)で解けた</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1665007734348201984?ref_src=twsrc%5Etfw">June 3, 2023</a></blockquote>
