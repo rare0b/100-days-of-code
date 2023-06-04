@@ -286,3 +286,8 @@
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>54日目<br>・ABC304<br>ジャッジくんが機能停止してモチベ落ちながらでしたが、ABCEが解けた。<br>CとEはunion findゴリ押し。ACLのdsuには本当に感謝しかない<br>C:N^2全探索で距離が近い人をグルーピング。人1のグループと同じならYes</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1665006824666595328?ref_src=twsrc%5Etfw">June 3, 2023</a></blockquote>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">E:グラフをdsuに入れてxiとyiのdsu.leader()の組み合わせをsetで保持。次にクエリで、piとqiのdsu.leader()の組み合わせがset内に存在すればNo。dsu.leader()がならしO(1)ぽいのでO(QlogK)で解けた</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1665007734348201984?ref_src=twsrc%5Etfw">June 3, 2023</a></blockquote>
+
+### 55日目: 2023年6月4日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>55日目<br>・Recursion<br>・1AC<br>・Track<br>AtCoderで、最大値の少ない変数に着目して計算量を減らす考えは身につけたいと思った。あと二分探索が基本にして最強な気がする。<br>Recursionの進捗ヤバなので、平日もがんばります。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1665370249200279554?ref_src=twsrc%5Etfw">June 4, 2023</a></blockquote>
