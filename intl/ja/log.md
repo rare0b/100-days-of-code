@@ -301,3 +301,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>57日目<br>・ABC306<br>・Recursion<br>Unratedになってしまったが、30分でD問題まで解けていて、上達を感じる。今後の参加は未定だけども、アルゴリズムは鍛え続けたい。<br>RecursionはやっとProject1が終わったところ。ちょっとCSSと仲良くなった。今月中にAcademy要件までは終わらせておきたい</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1670092990352613383?ref_src=twsrc%5Etfw">June 17, 2023</a></blockquote>
+
+### 58日目: 2023年6月24日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>58日目<br>・Recursion<br>・アルゴ式<br>・ABC307<br>RecursionではJavascriptのイベントリスナーなど。動的にする方法がわかってきた気がする。<br>アルゴ式はダイクストラ法をやった。原理の理解は浅いもののO(MlogN)で実装できるようになった。<br>ABCは時間足りずふるわなかった。ほぼ日AC続ける。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1672645746020192256?ref_src=twsrc%5Etfw">June 24, 2023</a></blockquote>
