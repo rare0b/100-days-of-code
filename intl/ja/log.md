@@ -311,3 +311,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>59日目<br>・Recursion<br>Slidersが一通り終わって、その後の課題？やっているところ。<br>Javascriptでアニメーション制御する方法がわかってきた。Bootstrap、CSSが書けるか怪しいので要復習。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1673001644446064640?ref_src=twsrc%5Etfw">June 25, 2023</a></blockquote>
+
+### 60日目: 2023年6月27日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>60日目<br>・1AC<br>・Recursion<br>頭使ってDP実装すると超速いし便利だった。包除原理よくわかってないので類題見かけた時にやり直す…。<br>RecursionはBanking App進めている。1からフロント実装できる自信ないので、通読して写経する。最後の課題は時間かけてがんばる</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1673768756269715456?ref_src=twsrc%5Etfw">June 27, 2023</a></blockquote>
