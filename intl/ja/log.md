@@ -326,3 +326,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>62日目<br>・1AC<br>・Recursion<br>・リーダブルコード<br>連続とは限らない部分文字列の個数、をDPで求めるのはできたが、応用するのに苦労した。類題来たときに解けるかどうか確かめる。<br>RecursionはBootstrap書いている。col-10やd-flexの挙動はわかったが、form-groupあたりが苦しい。要訓練</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1678456011601113090?ref_src=twsrc%5Etfw">July 10, 2023</a></blockquote>
+
+### 63日目: 2023年7月28日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>63日目<br>・Recursion<br>しばらくサボってましたが100日目まではやります。<br>Recursion上級のデータ構造を勉強した。応用情報などで履修していたので、目新しいことはなかったけど、Pythonが基本的に参照を渡す仕様に今更気づいてびっくりした。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1684983041046007809?ref_src=twsrc%5Etfw">July 28, 2023</a></blockquote>
