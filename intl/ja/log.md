@@ -336,3 +336,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>64日目<br>・ABC312<br>・Recursion<br>ABCは惨敗。二分探索を使う判断を鍛えたい。Recursionでその分野終わらせるのと、ABCお休み期間に鉄則本をやろうと思う。<br>Recursionは木構造の分野。木の高さと深さ、環状グラフと閉路、全二分木と完全二分木2種類など、定義の整理ができた。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1685391211753078784?ref_src=twsrc%5Etfw">July 29, 2023</a></blockquote>
+
+### 65日目: 2023年7月30日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>65日目<br>・Recursion<br>・ginAPI実装<br>Recursionは二分探索の練習問題。書き方的に再帰の復習にもなってありがたい。コード書くと頭の中で二分探索がトレースできていい感じ。<br>ginのAPIはgorm+postgresで実装した。何回か練習して、RESTなCRUD APIは自力で書けるようになったと思う。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1685730585351000064?ref_src=twsrc%5Etfw">July 30, 2023</a></blockquote>
