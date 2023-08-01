@@ -341,3 +341,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>65日目<br>・Recursion<br>・ginAPI実装<br>Recursionは二分探索の練習問題。書き方的に再帰の復習にもなってありがたい。コード書くと頭の中で二分探索がトレースできていい感じ。<br>ginのAPIはgorm+postgresで実装した。何回か練習して、RESTなCRUD APIは自力で書けるようになったと思う。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1685730585351000064?ref_src=twsrc%5Etfw">July 30, 2023</a></blockquote>
+
+### 66日目: 2023年8月1日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>66日目<br>・Recursion<br>・チーム開発<br>Recursionは走査の話をやった。間順は昇順ソート、逆間順は降順ソート。<br>チーム開発はペアプロしてもらったおかげでいつもよりさくさくコードを書けた。CSSのpositionの話、divを用意してHTMLこねこねする話は、当分忘れないと思う笑。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1686424311345872896?ref_src=twsrc%5Etfw">August 1, 2023</a></blockquote>
