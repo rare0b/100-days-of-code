@@ -346,3 +346,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>66日目<br>・Recursion<br>・チーム開発<br>Recursionは走査の話をやった。間順は昇順ソート、逆間順は降順ソート。<br>チーム開発はペアプロしてもらったおかげでいつもよりさくさくコードを書けた。CSSのpositionの話、divを用意してHTMLこねこねする話は、当分忘れないと思う笑。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1686424311345872896?ref_src=twsrc%5Etfw">August 1, 2023</a></blockquote>
+
+### 67日目: 2023年8月2日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>67日目<br>・1AC(鉄則本)<br>・Recursion<br>・チーム開発<br>Recursionは二分探索木の実装。普段set&lt;int&gt;使って終わりだから、自在に実装できるようにして応用力つけたい。<br>チーム開発はコードリーディング+JS書いた。setInterval()でテトロミノを落とす描画ができた。タスク分担困り中。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1686881117033693190?ref_src=twsrc%5Etfw">August 2, 2023</a></blockquote>
