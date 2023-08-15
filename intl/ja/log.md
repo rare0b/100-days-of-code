@@ -351,3 +351,13 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>67日目<br>・1AC(鉄則本)<br>・Recursion<br>・チーム開発<br>Recursionは二分探索木の実装。普段set&lt;int&gt;使って終わりだから、自在に実装できるようにして応用力つけたい。<br>チーム開発はコードリーディング+JS書いた。setInterval()でテトロミノを落とす描画ができた。タスク分担困り中。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1686881117033693190?ref_src=twsrc%5Etfw">August 2, 2023</a></blockquote>
+
+### 68日目: 2023年8月4日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>68日目<br>・1AC(鉄則本)<br>・チーム開発<br>鉄則本は二分探索。答えから二分探索って考え方が勉強になった。<br>チーム開発はPRみたりJS書いたり。Issue立てて書いてPRして～に慣れてきた。ロジックもほぼ完成したので、あと1週間でやることを考えたい。チームの人おもろくて楽しい😊</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1687640883297132544?ref_src=twsrc%5Etfw">August 5, 2023</a></blockquote>
+
+### 69日目: 2023年8月14日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>69日目<br>・1AC(鉄則本)<br>・Recursion<br>・HTML/CSS/JS<br>久々。昨日分です。<br>1ACは半分全列挙。分割統治で(N^4)→O(N^2logN)までなるのは強力。<br>Recursionはハード問題やって、200行くらいのコードでなんとか通す。ユーザ回答みたらほんの数十行で丸パクしようと思いました。<br>後はReact準備</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1691312821181857792?ref_src=twsrc%5Etfw">August 15, 2023</a></blockquote>
