@@ -361,3 +361,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>69日目<br>・1AC(鉄則本)<br>・Recursion<br>・HTML/CSS/JS<br>久々。昨日分です。<br>1ACは半分全列挙。分割統治で(N^4)→O(N^2logN)までなるのは強力。<br>Recursionはハード問題やって、200行くらいのコードでなんとか通す。ユーザ回答みたらほんの数十行で丸パクしようと思いました。<br>後はReact準備</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1691312821181857792?ref_src=twsrc%5Etfw">August 15, 2023</a></blockquote>
+
+### 70日目: 2023年9月28日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>70日目<br>・1AC(鉄則本)<br>・Recursion<br>・Goのnet/http<br>久々(n回目)、年内に終わらせたい<br>鉄則本、差分の累積和便利だった<br>RecursionはOOPやってて懐かしのgetter/setterを見た<br>net/http、HandleとHandleFuncとかマルチプレクサとか知らんかった、フレームワーク使わないって大事</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1707416256004169968?ref_src=twsrc%5Etfw">September 28, 2023</a></blockquote>
