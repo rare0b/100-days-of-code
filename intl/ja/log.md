@@ -366,3 +366,13 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>70日目<br>・1AC(鉄則本)<br>・Recursion<br>・Goのnet/http<br>久々(n回目)、年内に終わらせたい<br>鉄則本、差分の累積和便利だった<br>RecursionはOOPやってて懐かしのgetter/setterを見た<br>net/http、HandleとHandleFuncとかマルチプレクサとか知らんかった、フレームワーク使わないって大事</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1707416256004169968?ref_src=twsrc%5Etfw">September 28, 2023</a></blockquote>
+
+### 71日目: 2023年9月29日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>71日目<br>・Efficient MySQL Performance<br>・Goのnet/http<br>MySQLナニモワカラン。SQL実行状況みたいな、レポートの類がありそうなことはわかる。具体的なチューニングの話はまだわからん。<br>net/http、writerのこととか。multipartはファイルのやりとりに使うらしい。SetCookie便利</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1707802509891481953?ref_src=twsrc%5Etfw">September 29, 2023</a></blockquote>
+
+### 72日目: 2023年10月4日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>72日目<br>・SQL<br>・Go<br>・DDD<br>SQLのこと勉強会で発表した。相関サブクエリ、ウィンドウ関数はもっと鍛える余地ありそう。Dockerの環境構築がスムーズにできて成長感じる。<br>GoでクリーンアーキテクチャとDDDどっちも考慮するの大変。特にDDDは、サービスに定義すべきものの基準がむずい。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1709612340235374992?ref_src=twsrc%5Etfw">October 4, 2023</a></blockquote>
