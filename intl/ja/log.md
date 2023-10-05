@@ -376,3 +376,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>72日目<br>・SQL<br>・Go<br>・DDD<br>SQLのこと勉強会で発表した。相関サブクエリ、ウィンドウ関数はもっと鍛える余地ありそう。Dockerの環境構築がスムーズにできて成長感じる。<br>GoでクリーンアーキテクチャとDDDどっちも考慮するの大変。特にDDDは、サービスに定義すべきものの基準がむずい。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1709612340235374992?ref_src=twsrc%5Etfw">October 4, 2023</a></blockquote>
+
+### 73日目: 2023年10月5日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>73日目<br>・Recursion<br>・徳丸本<br>・Goプログラミング実践入門<br>Recursionは抽象化のとこ。Goやってるとインタフェースイメージしやすいな、C++とかやってたときは使わなかった。継承使いづら！！って思ってたからありがたい。<br>徳丸本は内容はだいたいわかるけど実践に時間かかりそう</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1709971246065320042?ref_src=twsrc%5Etfw">October 5, 2023</a></blockquote>
