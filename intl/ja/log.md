@@ -381,3 +381,18 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>73日目<br>・Recursion<br>・徳丸本<br>・Goプログラミング実践入門<br>Recursionは抽象化のとこ。Goやってるとインタフェースイメージしやすいな、C++とかやってたときは使わなかった。継承使いづら！！って思ってたからありがたい。<br>徳丸本は内容はだいたいわかるけど実践に時間かかりそう</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1709971246065320042?ref_src=twsrc%5Etfw">October 5, 2023</a></blockquote>
+
+### 74日目: 2023年10月7日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>74日目<br>・Recursion<br>・ABC<br>RecursionはGitとかOOPとか。checkoutはHEADの移動だから、特定のコミットやブランチに移動できる、てのを理解した(たぶん)。merge方法は要勉強<br>ABCはDまで。優先度付きキューみたいな便利なの知っておくと良いことあるなー</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1710699219659759997?ref_src=twsrc%5Etfw">October 7, 2023</a></blockquote>
+
+### 75日目: 2023年10月10日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>75日目(昨日分<br>・Goいろいろ<br>JSONをunmarshalしたり、SOAPを初めて知ったり。レガシーな、あるいはセキュリティガチガチの社内システムとかで使われてそう<br>ゴルーチンはまだ理解浅い。チャネルはデータの受け渡し、waitgroupは他のゴルーチンの終了を待つって感じ？</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1711952090493550958?ref_src=twsrc%5Etfw">October 11, 2023</a></blockquote>
+
+### 76日目: 2023年10月11日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>76日目<br>・1AC<br>・Goいろいろ<br>累積和やっぱり便利やな。二次元のは慣れるまで演習必要そう。<br>Goはインターンでテストとか書いてた。楽しい。TestStructName_MethodNameってテスト名の書き方は初めて知った、Golandで該当メソッドに飛べて超便利。インタフェースの実体は構造体のポインタ</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1712150475490152612?ref_src=twsrc%5Etfw">October 11, 2023</a></blockquote>
