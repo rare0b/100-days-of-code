@@ -396,3 +396,8 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>76日目<br>・1AC<br>・Goいろいろ<br>累積和やっぱり便利やな。二次元のは慣れるまで演習必要そう。<br>Goはインターンでテストとか書いてた。楽しい。TestStructName_MethodNameってテスト名の書き方は初めて知った、Golandで該当メソッドに飛べて超便利。インタフェースの実体は構造体のポインタ</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1712150475490152612?ref_src=twsrc%5Etfw">October 11, 2023</a></blockquote>
+
+### 77日目: 2023年10月24日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>77日目<br>・Goナニモワカラン<br>辛うじてsqlx使ってるけど、だいぶきつい。ORMに甘えてた。SQL自体は書けるのに、動的SQLにしたいとき「そもそも実装どうするん」「SQLインジェクションこわ」てなる<br>あとDockerで詰まった。localhost以外のホスト名を初めて使ったし、動きまだわかってない</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1716874997019652182?ref_src=twsrc%5Etfw">October 24, 2023</a></blockquote>
