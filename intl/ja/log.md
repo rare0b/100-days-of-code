@@ -401,3 +401,23 @@
 
 **リンク**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>77日目<br>・Goナニモワカラン<br>辛うじてsqlx使ってるけど、だいぶきつい。ORMに甘えてた。SQL自体は書けるのに、動的SQLにしたいとき「そもそも実装どうするん」「SQLインジェクションこわ」てなる<br>あとDockerで詰まった。localhost以外のホスト名を初めて使ったし、動きまだわかってない</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1716874997019652182?ref_src=twsrc%5Etfw">October 24, 2023</a></blockquote>
+
+### 78日目: 2023年12月31日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br>78日目(昨日か一昨日分のメモ<br>・C言語<br>・プログラミング言語Go<br>長いこと放置してた。勉強途中を開示するの苦手(言い訳)<br>C言語大好き。面白いね。初めて触った言語がこれで本当によかった。ポインタちょっとわかったかもしれない。今度コンパイラ作るやつやりたい。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1741717169170530759?ref_src=twsrc%5Etfw">January 1, 2024</a></blockquote>
+
+### 79日目: 2024年1月1日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>79日目(昨日分<br>・React(Udemyとか)<br>素のReact/JSは久々かもしれない。Promise完全に理解した。一応Next.jsのReact Foundationsを読んでいる。Netlify便利。<br>HooksにわかだからuseEffectこわい。useEffect以外の初期のfetch処理か、依存配列に書かずfetch関数を使い回す方法ないかな。</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1742063879524626624?ref_src=twsrc%5Etfw">January 2, 2024</a></blockquote>
+
+### 80日目: 2024年1月2日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>80日目<br>・React(Udemyとか)<br>・ネットワークはなぜつながるのか<br>Firebaseかんたん好き。NoSQLも好きになっちゃう<br>ネットワーク大好き。ネットワークアドレス、ブロードキャストアドレス、サブネット、CIDR、ウェルノウンポート20,21,22,23,25,53,80,…。オタク特有の早口脳内展開される</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1742230985314574506?ref_src=twsrc%5Etfw">January 2, 2024</a></blockquote>
+
+### 81日目: 2024年1月3日
+
+**リンク**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>81日目(昨日分<br>・React(Udemyとか)<br>リダイレクトむずすぎて泣きそう。無限に時間かかってる。navigateじゃ手に負えないんだけど。Firebase認証好きじゃないかもしれない<br>「Google でログイン」のブランドの取り扱いガイドライン、っていうのを見つけた。結構細かく決められてるらしい</p>&mdash; れあ (@rare0b) <a href="https://twitter.com/rare0b/status/1742776953789399115?ref_src=twsrc%5Etfw">January 4, 2024</a></blockquote>
